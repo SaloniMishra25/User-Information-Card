@@ -8,7 +8,7 @@ const users = [
     website: "saloni.dev",
   },
   {
-    name: "Aashi Shrivastava",
+    name: "Aashi Shrivatri",
     email: "aashi@example.com",
     username: "aashi02",
     address: { city: "Sagar", street: "Civil Line", zipcode: "470001" },
